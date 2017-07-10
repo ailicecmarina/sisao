@@ -1,0 +1,66 @@
+body {background-color: #f9f4fc;}
+
+img {margin: 5px 10px 0px 45px;
+width: 20%;
+border: 5px double #f2e3fc;}
+
+h1 {padding-left: 20px;}
+
+h3 {padding-left: 20px;}
+
+#info {background-color: #e5d5ef;
+width: 58%;
+height: 200px;
+margin: 5px 10px;
+padding: 5px 20px 15px 5px;
+border: 3px double #f2e3fc;
+margin: 5px 0px;
+float: right;
+font-family: Monospace; Courier New;
+font-size: 15px;
+}
+
+#port {background-color: #e5d5ef;
+width: 58%;
+height: 10px;
+margin: 5px 0;
+padding: 10px 20px 40px 5px;
+border: 1px groove #f2e3fc;
+float: right;
+font-size: 12px;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.slider {background-color: #e5d5ef;
+height: 10px;
+width: 40%;
+margin: 5px 0;
+padding: 10px 0px 25px 5px;
+font-size: 12px;
+font-family: Verdana, Arial, Helvetica, sans-serif; }
+
+.principal {background-color: #e5d5ef;
+width: 58%;
+height: 15px;
+margin: 10px 0;
+padding: 10px 20px 15px 5px;
+border: 3px outset #f2e3fc;
+float: right;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 17px;
+}
+
+.info {background-color: #e5d5ef;
+width: 58%;
+height: 25px;
+margin: 5px 0;
+padding: 10px 20px 80px 5px;
+border: 1px groove #f2e3fc;
+float: right;
+font-size: 12px;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+ }
+
+.titulo {font-size: 15px;
+font-weight: 800;
+text-decoration: underline;}
